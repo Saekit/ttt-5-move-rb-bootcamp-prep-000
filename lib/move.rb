@@ -14,4 +14,8 @@ end
 
 def move(board, index, character = "X")
   board[index] = character
+<<<<<<< HEAD
+=======
+  return board
+>>>>>>> d510c14a0138c4b52870544d9d8eaf99fef9cd7e
 end
